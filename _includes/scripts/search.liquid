@@ -258,6 +258,15 @@
               window.open("https://github.com/{{ site.github_username }}", "_blank");
             },
           },
+        {%- if site.etsy_storename -%}
+          {
+            id: 'socials-etsy',
+            title: 'Etsy',
+            section: 'Socials',
+            handler: () => {
+              window.open("https://etsy.com/{{ site.etsy_storename }}", "_blank");
+            },
+          },
         {%- endif -%}
         {%- if site.linkedin_username -%}
           {
