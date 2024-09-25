@@ -67,23 +67,23 @@
       "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
   ],
-  "certificates": [
+    "certificates": [
     {
-      "name": "Level 3 Spatial Analyzer Training",
+      "name": "Virtalis Developer Training",
       "date": "2018-01-01",
       "issuer": "Hexagon Metrology",
       "url": "https://example.com",
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Level 1 CMM Training",
+      "name": "Ai Build Training",
       "date": "2018-01-01",
-      "issuer": "Hexagon Metrology",
+      "issuer": "Aibuild",
       "url": "https://example.com",
       "icon": "fa-solid fa-tag"
     },
     {
-      "name": "GD&T Training",
+      "name": "Materialise Magics Training",
       "date": "2018-01-01",
       "issuer": "Hexagon Metrology",
       "url": "https://example.com",
@@ -97,23 +97,23 @@
       "icon": "fa-solid fa-hashtag"
     },
     {
-      "name": "Materialise Magics Training",
+      "name": "GD&T Training",
       "date": "2018-01-01",
-      "issuer": "Stanford University",
+      "issuer": "Hexagon Metrology",
       "url": "https://example.com",
       "icon": "fa-solid fa-calendar"
     },
     {
-      "name": "AIBuild Training",
+      "name": "Level 1 CMM Training",
       "date": "2018-01-01",
-      "issuer": "Stanford University",
+      "issuer": "Hexagon Metrology",
       "url": "https://example.com",
       "icon": "fa-solid fa-calendar"
     },
     {
-      "name": "Virtalis Developer Training",
+      "name": "Level 3 Spatial Analyzer Training",
       "date": "2018-01-01",
-      "issuer": "Stanford University",
+      "issuer": "Hexagon Metrology",
       "url": "https://example.com",
       "icon": "fa-solid fa-clipboard-check"
     }
