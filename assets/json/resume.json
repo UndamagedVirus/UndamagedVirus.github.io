@@ -116,6 +116,13 @@
       "issuer": "Hexagon Metrology",
       "url": "https://example.com",
       "icon": "fa-solid fa-clipboard-check"
+    },
+    {
+     "name": "IOSH Managing Safely",
+      "date": "2018-01-01",
+      "issuer": "Hexagon Metrology",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "publications": [
