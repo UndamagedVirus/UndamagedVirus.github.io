@@ -69,42 +69,49 @@
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
+      "name": "Level 3 Spatial Analyzer Training",
       "date": "2018-01-01",
-      "issuer": "Stanford University",
+      "issuer": "Hexagon Metrology",
       "url": "https://example.com",
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Computing",
+      "name": "Level 1 CMM Training",
       "date": "2018-01-01",
-      "issuer": "Stanford University",
+      "issuer": "Hexagon Metrology",
       "url": "https://example.com",
       "icon": "fa-solid fa-tag"
     },
     {
-      "name": "Quantum Information",
+      "name": "GD&T Training",
       "date": "2018-01-01",
-      "issuer": "Stanford University",
+      "issuer": "Hexagon Metrology",
       "url": "https://example.com",
       "icon": "fa-solid fa-envelope"
     },
     {
-      "name": "Quantum Cryptography",
+      "name": "XRF Safety Training",
       "date": "2018-01-01",
       "issuer": "Stanford University",
       "url": "https://example.com",
       "icon": "fa-solid fa-hashtag"
     },
     {
-      "name": "Quantum Communication",
+      "name": "Materialise Magics Training",
       "date": "2018-01-01",
       "issuer": "Stanford University",
       "url": "https://example.com",
       "icon": "fa-solid fa-calendar"
     },
     {
-      "name": "Quantum Teleportation",
+      "name": "AIBuild Training",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-calendar"
+    },
+    {
+      "name": "Virtalis Developer Training",
       "date": "2018-01-01",
       "issuer": "Stanford University",
       "url": "https://example.com",
