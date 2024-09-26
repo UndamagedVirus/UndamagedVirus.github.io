@@ -3,10 +3,10 @@
     "name": "Fraser Burns",
     "label": "Quality Control Inspector",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
+    "email": "fraser.burns@hotmail.co.uk",
+    "phone": "+44 7449829405",
     "url": "https://undamagedvirus.github.io",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "I have 13 years of Quality Control Inspection experience in the Oil & Gas industry, including 18 months as a Lab Engineer in Additive Manufacturing, where I increased productivity to 90%. I am committed to continious improvement and actively support HSE initiatives as a safety committee member and mentor.",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -178,18 +178,19 @@
         "Quantum Communication",
         "Quantum Teleportation"
       ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Native Speaker",
-      "icon": ""
+      "name": "Physics",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Quantum Mechanics",
+        "Quantum Computing",
+        "Quantum Information",
+        "Quantum Cryptography",
+        "Quantum Communication",
+        "Quantum Teleportation"
+      ]
     }
   ],
   "interests": [
@@ -204,18 +205,6 @@
         "Quantum Communication",
         "Quantum Teleportation"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
   ],
   "projects": [
