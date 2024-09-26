@@ -30,7 +30,7 @@
       "startDate": "2024-01-01",
       "endDate": "",
       "summary": "Teaching at Palmer Physical Laboratory ( 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "highlights": ["Gas Turbines, "]
       },
       {
       "name": "Baker Hughes",
@@ -48,7 +48,7 @@
       "startDate": "2018-01-06",
       "endDate": "2022-01-06",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Dimensional Inspection, MRB Review, Non-Conformance Reporting & Investigations, CMM/Laser Tracker & Romer Arm Operation/Programming , Continuous Improvement"]
+      "highlights": ["Subsea Trees & Sub-Assemblies, Dimensional Inspection, MRB Review, Non-Conformance Reporting & Investigations, CMM/Laser Tracker & Romer Arm Operation/Programming , "]
       },
       {
       "name": "Pacson Valves",
@@ -57,7 +57,7 @@
       "startDate": "2016-01-06",
       "endDate": "2018-01-06",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "highlights": ["Subsea Vavles, Non-Destructive Testing, "]
       },
       {
       "name": "Bonar Yarns",
@@ -75,7 +75,7 @@
       "startDate": "2011-01-06",
       "endDate": "2015-01-10",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "highlights": ["Sub-Contract Machining, "]
     }
   ],
   "education": [
@@ -94,8 +94,8 @@
       "location": "Perth, Scotland",
       "url": "https://www.uzh.ch/",
       "studyType": "NC",
-      "startDate": "06/2009",
-      "endDate": "06/2010",
+      "startDate": "06-2009",
+      "endDate": "06-2010",
       "score": "10",
       "courses": ["Practical Engineering"]
     }
@@ -115,6 +115,13 @@
       "date": "",
       "issuer": "Virtalis",
       "url": "https://www.virtalis.com/",
+      "icon": "fa-solid fa-head-side-goggles"
+    },
+    {
+      "name": "Stratasys Machine Maintenance",
+      "date": "",
+      "issuer": "SYS Systems Ltd",
+      "url": "https://www.sys-uk.com/",
       "icon": "fa-solid fa-location-dot"
     },
     {
@@ -136,35 +143,35 @@
       "date": "",
       "issuer": "Stanford University",
       "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
+      "icon": "fa-solid fa-clipboard"
     },
     {
       "name": "GD&T Training",
       "date": "2018",
       "issuer": "Hexagon Metrology",
       "url": "https://hexagon.com/",
-      "icon": "fa-solid fa-calendar"
+      "icon": "fa-solid fa-ruler-combined"
     },
     {
       "name": "Level 1 CMM Training",
       "date": "",
       "issuer": "Hexagon Metrology",
       "url": "https://hexagon.com/",
-      "icon": "fa-solid fa-calendar"
+      "icon": "fa-solid fa-ruler-combined"
     },
     {
       "name": "Level 3 Spatial Analyzer Training",
       "date": "",
       "issuer": "Hexagon Metrology",
       "url": "https://hexagon.com/",
-      "icon": "fa-solid fa-clipboard-check"
+      "icon": "fa-solid fa-ruler-combined"
     },
     {
      "name": "IOSH Managing Safely",
       "date": "04/2021",
       "issuer": "Hexagon Metrology",
       "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "icon": "fa-solid fa-clipboard"
     }
   ],
   "skills": [
