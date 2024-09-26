@@ -23,7 +23,7 @@
     ]
   },
   "work": [
-    {
+      {
       "name": "Sulzer GT Aero Services Ltd",
       "position": "Goods In Inspector",
       "url": "https://example.com",
@@ -31,8 +31,8 @@
       "endDate": "Prsent",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": ["Relativity"]
-    },
-    {
+      },
+      {
       "name": "Baker Hughes",
       "position": "Lab Engineer",
       "url": "https://example.com",
@@ -40,8 +40,8 @@
       "endDate": "10/2023",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": ["Relativity"]
-    },
-        {
+      },
+      {
       "name": "Baker Hughes",
       "position": "Goods In Quality Control Inspector",
       "url": "https://example.com",
@@ -49,17 +49,17 @@
       "endDate": "06/2022",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": ["Relativity"]
-    },
-        {
+      },
+      {
       "name": "Pacson Valves",
       "position": "NDE Quality Control Inspector",
       "url": "https://example.com",
       "startDate": "06/2016",
-      "endDate": "06/201/",
+      "endDate": "06/2018",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": ["Relativity"]
-    },
-        {
+      },
+      {
       "name": "Bonar Yarns",
       "position": "Quality Tester",
       "url": "https://example.com",
@@ -67,8 +67,8 @@
       "endDate": "06/2016",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": ["Relativity"]
-    },
-    {
+      },
+      {
       "name": "GA Engineering (Scotland)",
       "position": "Quality Control Inspector",
       "url": "https://example.com",
