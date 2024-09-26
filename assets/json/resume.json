@@ -118,18 +118,18 @@
       "icon": "fa-solid fa-head-side-goggles"
     },
     {
-      "name": "Stratasys Machine Maintenance",
+      "name": "Stratasys Machine Maintenance (F123 & Fortus Series)",
       "date": "",
       "issuer": "SYS Systems Ltd",
       "url": "https://www.sys-uk.com/",
-      "icon": "fa-solid fa-location-dot"
+      "icon": "fa-duotone fa-solid fa-screwdriver-wrench"
     },
     {
       "name": "Ai Build Training",
       "date": "",
       "issuer": "Aibuild",
       "url": "https://ai-build.com/",
-      "icon": "fa-solid fa-tag"
+      "icon": "fa-solid fa-computer"
     },
     {
       "name": "Materialise Magics Training",
@@ -197,7 +197,7 @@
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "Native Speaker",
       "icon": ""
     }
   ],
@@ -229,12 +229,36 @@
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
+      "name": "Inventory Managment System",
       "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
       "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
       "startDate": "2018-01-01",
       "endDate": "2018-01-01",
       "url": "https://example.com"
-    }
+    },
+    {
+      "name": "Inventory Managment System",
+      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
+      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+      "startDate": "2018-01-01",
+      "endDate": "2018-01-01",
+      "url": "https://example.com"
+    },
+    {
+      "name": "Inspection Department Application",
+      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
+      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+      "startDate": "2018-01-01",
+      "endDate": "2018-01-01",
+      "url": "https://example.com"
+    },
+    {
+      "name": "Material Waste Reduction",
+      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
+      "highlights": ["Cost Saving", "Quantum Cryptography"],
+      "startDate": "2018-01-01",
+      "endDate": "2018-01-01",
+      "url": "https://example.com"
+    },
   ]
 }
