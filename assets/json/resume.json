@@ -23,15 +23,15 @@
     ]
   },
   "work": [
-    {
+      {
       "name": "Sulzer GT Aero Services Ltd",
       "position": "Goods In Inspector",
       "url": "https://example.com",
       "startDate": "01/2024",
-      "endDate": "",
+      "endDate": ,
       "summary": "Teaching at Palmer Physical Laboratory ( 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": ["Relativity"]
-    },
+      },
       {
       "name": "Baker Hughes",
       "position": "Lab Engineer",
