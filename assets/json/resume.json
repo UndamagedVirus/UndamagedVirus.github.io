@@ -27,7 +27,7 @@
       "name": "Sulzer GT Aero Services Ltd",
       "position": "Goods In Inspector",
       "url": "https://example.com",
-      "startDate": "01-01-2024",
+      "startDate": "2024-01-01",
       "endDate": "",
       "summary": "Teaching at Palmer Physical Laboratory ( 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": ["Relativity"]
@@ -36,8 +36,8 @@
       "name": "Baker Hughes",
       "position": "Lab Engineer",
       "url": "https://example.com",
-      "startDate": "01-06-2022",
-      "endDate": "01-10-2023",
+      "startDate": "2022-01-06",
+      "endDate": "2023-01-10",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": ["Relativity"]
       },
@@ -45,8 +45,8 @@
       "name": "Baker Hughes",
       "position": "Goods In Quality Control Inspector",
       "url": "https://example.com",
-      "startDate": "01-06-2018",
-      "endDate": "01-06-2022",
+      "startDate": "2018-01-06",
+      "endDate": "2022-01-06",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": ["Relativity"]
       },
@@ -54,8 +54,8 @@
       "name": "Pacson Valves",
       "position": "NDE Quality Control Inspector",
       "url": "https://example.com",
-      "startDate": "01-06-2016",
-      "endDate": "01-06-2018",
+      "startDate": "2016-01-06",
+      "endDate": "2018-01-06",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": ["Relativity"]
       },
@@ -63,8 +63,8 @@
       "name": "Bonar Yarns",
       "position": "Quality Tester",
       "url": "https://example.com",
-      "startDate": "01-01-02016",
-      "endDate": "01-06-2016",
+      "startDate": "2016-01-01",
+      "endDate": "2016-01-06",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": ["Relativity"]
       },
@@ -72,8 +72,8 @@
       "name": "GA Engineering (Scotland)",
       "position": "Quality Control Inspector",
       "url": "https://example.com",
-      "startDate": "01-06-2011",
-      "endDate": "01-10-2015",
+      "startDate": "2011-01-06",
+      "endDate": "2015-01-10",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": ["Relativity"]
     }
