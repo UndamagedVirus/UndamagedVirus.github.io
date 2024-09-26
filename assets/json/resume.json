@@ -48,7 +48,7 @@
       "startDate": "2018-01-06",
       "endDate": "2022-01-06",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Subsea Trees & Sub-Assemblies, Dimensional Inspection, MRB Review, Non-Conformance Reporting & Investigations, CMM/Laser Tracker & Romer Arm Operation/Programming , "]
+      "highlights": ["Subsea Trees & Sub-Assemblies, Dimensional Inspection, MRB Review, Non-Conformance Reporting & Investigations, CMM/Laser Tracker & Romer Arm Operation/Programming"]
       },
       {
       "name": "Pacson Valves",
@@ -115,14 +115,14 @@
       "date": "",
       "issuer": "Virtalis",
       "url": "https://www.virtalis.com/",
-      "icon": "fa-solid fa-head-side-goggles"
+      "icon": "fa-solid fa-computer"
     },
     {
       "name": "Stratasys Machine Maintenance (F123 & Fortus Series)",
       "date": "",
       "issuer": "SYS Systems Ltd",
       "url": "https://www.sys-uk.com/",
-      "icon": "fa-duotone fa-solid fa-screwdriver-wrench"
+      "icon": "fa-solid fa-screwdriver"
     },
     {
       "name": "Ai Build Training",
@@ -136,7 +136,7 @@
       "date": "",
       "issuer": "Materialise",
       "url": "https://www.materialise.com/en",
-      "icon": "fa-solid fa-envelope"
+      "icon": "fa-solid fa-computer"
     },
     {
       "name": "XRF Safety Training",
