@@ -82,9 +82,9 @@
     {
       "institution": "Edinburgh College",
       "location": "Edinburgh, College",
-      "url": "https://www.uzh.ch/",
+      "url": "https://www.edinburghcollege.ac.uk/",
       "studyType": "HNC",
-      "startDate": "1905-01-01",
+      "startDate": "11-2022",
       "endDate": "",
       "score": "10",
       "courses": ["Mechanical Engineering"]
@@ -92,21 +92,12 @@
     {
       "institution": "Perth College UHI",
       "location": "Perth, Scotland",
-      "url": "https://www.uzh.ch/",
+      "url": "https://www.perth.uhi.ac.uk/",
       "studyType": "NC",
       "startDate": "06-2009",
       "endDate": "06-2010",
       "score": "10",
       "courses": ["Practical Engineering"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
   ],
     "certificates": [
