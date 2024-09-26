@@ -20,39 +20,18 @@
               {% assign endYear = endDateParts[1] %}
               {% assign sortableEndDate = endYear | append: '-' | append: endMonth %}
             {% else %}
-              {% assign sortableEndDate = "Present" %}
+              {% assign endMonth = 'Present' %}
+              {% assign endYear = '' %}
             {% endif %}
   
             <!-- Display dates in mm/yyyy format -->
-            <span>{{ startMonth }}/{{ startYear }} - {% if content.endDate != "Present" %}{{ endMonth }}/{{ endYear }}{% else %}Present{% endif %}</span>
+            <span>{{ startMonth }}/{{ startYear }} - {% if endMonth != 'Present' %}{{ endMonth }}/{{ endYear }}{% else %}Present{% endif %}</span>
   
           {% else %}
             <span>No Date Available</span>
           {% endif %}
         </div>
-      </div>
-    </li>
-  {% endfor %}
-          <table class="table-cv">
-            <tbody>
-              <tr>
-                <td>
-                  <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px"> {{ date }} </span>
-                </td>
-              </tr>
-              {% if content.location %}
-                <tr>
-                  <td>
-                    <p class="location">
-                      <i class="fa-solid fa-location-dot iconlocation"></i>
-                      {{ content.location }}
-                    </p>
-                  </td>
-                </tr>
-              {% endif %}
-            </tbody>
-          </table>
-        </div>
+  
         <div class="col-xs-10 cl-sm-10 col-md-10 mt-2 mt-md-0">
           <h6 class="title font-weight-bold ml-1 ml-md-4">
             <a href="{{ content.url }}">{{ content.position }}</a>
@@ -68,6 +47,26 @@
           </ul>
         </div>
       </div>
+      
+      <table class="table-cv">
+        <tbody>
+          <tr>
+            <td>
+              <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px"> {{ sortableStartDate }} </span>
+            </td>
+          </tr>
+          {% if content.location %}
+            <tr>
+              <td>
+                <p class="location">
+                  <i class="fa-solid fa-location-dot iconlocation"></i>
+                  {{ content.location }}
+                </p>
+              </td>
+            </tr>
+          {% endif %}
+        </tbody>
+      </table>
     </li>
   {% endfor %}
 </ul>
