@@ -5,13 +5,34 @@
       <div class="row">
         <div class="col-xs-2 cl-sm-2 col-md-2 text-center date-column">
           {% if content.startDate %}
-            {% assign startDate = content.startDate | split: '-' | slice: 0, 2 | join: '.' %}
-            {% assign endDate = content.endDate | split: '-' | slice: 0, 2 | join: '.' | default: 'Present' %}
-            {% assign date = startDate | append: ' - ' %}
-            {% assign date = date | append: endDate %}
+            <!-- Split the start date into month and year -->
+            {% assign startDateParts = content.startDate | split: '/' %}
+            {% assign startMonth = startDateParts[0] %}
+            {% assign startYear = startDateParts[1] %}
+  
+            <!-- Sortable format: yyyy-mm -->
+            {% assign sortableStartDate = startYear | append: '-' | append: startMonth %}
+  
+            <!-- Same for end date, handle "Present" if no end date -->
+            {% if content.endDate != "Present" %}
+              {% assign endDateParts = content.endDate | split: '/' %}
+              {% assign endMonth = endDateParts[0] %}
+              {% assign endYear = endDateParts[1] %}
+              {% assign sortableEndDate = endYear | append: '-' | append: endMonth %}
+            {% else %}
+              {% assign sortableEndDate = "Present" %}
+            {% endif %}
+  
+            <!-- Display dates in mm/yyyy format -->
+            <span>{{ startMonth }}/{{ startYear }} - {% if content.endDate != "Present" %}{{ endMonth }}/{{ endYear }}{% else %}Present{% endif %}</span>
+  
           {% else %}
-            {% assign date = '' %}
+            <span>No Date Available</span>
           {% endif %}
+        </div>
+      </div>
+    </li>
+  {% endfor %}
           <table class="table-cv">
             <tbody>
               <tr>
